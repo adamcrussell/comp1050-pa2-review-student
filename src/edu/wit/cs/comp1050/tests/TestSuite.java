@@ -13,8 +13,7 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
 	PA2aTestCase.class,
-	PA2bTestCase.class,
-	PA2cTestCase.class,
+	PA2bTestCase.class
 })
 
 public class TestSuite {
